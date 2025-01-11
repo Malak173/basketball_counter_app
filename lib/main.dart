@@ -20,7 +20,7 @@ class _PointsCounterState extends State<PointsCounter> {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: const Color.fromARGB(255, 207, 124, 41),
-          title:const Text('Pints Counter',style: TextStyle(color: Colors.white),) ,
+          title:const Text('Points Counter',style: TextStyle(color: Colors.white),) ,
         ),
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
